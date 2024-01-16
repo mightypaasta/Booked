@@ -1,0 +1,16 @@
+.DS_Store
+build/
+xcuserdata
+.swiftpm/xcode/xcuserdata
+!xcshareddata
+!xcschemes
+
+Booked.xcodeproj/project.pbxproj
+Booked.xcodeproj/xcuserdata/mightypaasta.xcuserdatad/xcschemes/xcschememanagement.plist
+Booked/Auth0.plist
+Booked/Info.plist
+
+/temp
+
+.env
+.env*
